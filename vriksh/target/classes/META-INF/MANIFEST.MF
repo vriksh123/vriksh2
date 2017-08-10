@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: vriksh
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lekh
+Implementation-Vendor-Id: com.vriksh123
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/vriksh/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
